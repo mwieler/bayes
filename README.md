@@ -1,0 +1,1 @@
+This repo contains code I've written to learn more about the Bayesian approach to statistical inference.
